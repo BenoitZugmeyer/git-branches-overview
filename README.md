@@ -1,5 +1,8 @@
 # git-branches-overview
 
+[![Crates.io](https://img.shields.io/crates/v/git-branches-overview.svg?style=popout)](https://crates.io/crates/git-branches-overview)
+[![License](https://img.shields.io/crates/l/git-branches-overview.svg?style=popout)](https://github.com/BenoitZugmeyer/git-branches-overview/blob/master/COPYING)
+
 Visualize branches 'ahead' and 'behind' commits compared to a base revision or their upstream.
 
 ## Installation
