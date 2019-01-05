@@ -3,14 +3,21 @@ name = "git-branches-overview"
 version = "0.1.0"
 authors = ["Benoît Zugmeyer <bzugmeyer@gmail.com>"]
 edition = "2018"
-license = "GPLv3"
-license-file = "COPYING"
+license = "GPL-3.0-or-later"
 keywords = ["git"]
+categories = ["command-line-utilities", "development-tools"]
 repository = "https://github.com/BenoitZugmeyer/git-branches-overview"
 homepage = "https://github.com/BenoitZugmeyer/git-branches-overview"
 description = """
 Visualize branches 'ahead' and 'behind' commits compared to a base revision or their upstream.
 """
+exclude = [
+  "git-branches-overview.png"
+]
+
+[[bin]]
+path = "src/main.rs"
+name = "git-branches-overview"
 
 [dependencies]
 git2 = "0.7"
