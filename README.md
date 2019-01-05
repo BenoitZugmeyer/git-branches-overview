@@ -2,6 +2,16 @@
 
 Visualize branches 'ahead' and 'behind' commits compared to a base revision or their upstream.
 
+## Installation
+
+Use [Cargo](https://doc.rust-lang.org/cargo/index.html).
+
+```
+$ cargo install git-branches-overview
+```
+
+You may need to add `$HOME/.cargo/bin` in your `PATH`.
+
 ## Usage
 
 ```

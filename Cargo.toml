@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Benoît Zugmeyer <bzugmeyer@gmail.com>"]
 edition = "2018"
 license = "GPL-3.0-or-later"
+readme = "README.md"
 keywords = ["git"]
 categories = ["command-line-utilities", "development-tools"]
 repository = "https://github.com/BenoitZugmeyer/git-branches-overview"
