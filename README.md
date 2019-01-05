@@ -36,4 +36,4 @@ ARGS:
 
 ## Screenshot
 
-![Screenshot of git-branches-overview](git-branches-overview.png)
+![Screenshot of git-branches-overview](https://raw.githubusercontent.com/BenoitZugmeyer/git-branches-overview/master/git-branches-overview.png)
